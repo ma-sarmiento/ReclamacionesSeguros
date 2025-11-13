@@ -34,9 +34,11 @@ Proyecto2_ReclamacionesSeguros/
 ├── Entidad-Relacion.jpg        # Diagrama E-R del sistema
 ├── Relacional.jpg              # Modelo relacional normalizado
 ├── Scripts/
-│   ├── DDL.sql                 # Definición de tablas, PK/FK, restricciones
-│   ├── DML.sql                 # Inserción de datos iniciales
-│   └── Consultas.sql           # Consultas y reportes del sistema
+│   ├── Consultas.sql           # Consultas analíticas y reportes
+│   ├── CreacionTablas.sql      # Creación del esquema (tablas, PK, FK)
+│   ├── DDL.sql                 # Script completo de definición estructural
+│   ├── InsercionTuplas.sql     # Poblamiento inicial de datos
+│   └── Permisos.sql            # Asignación de permisos
 ├── .gitignore
 └── README.md
 ```
