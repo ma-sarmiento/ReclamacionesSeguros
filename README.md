@@ -89,7 +89,7 @@ El diseño del sistema se basa en varias entidades interconectadas:
 
 ---
 
-📊 Consultas incluidas
+# 📊 Consultas incluidas
 
 El archivo **Consultas.sql** contiene reportes como:
 
@@ -107,7 +107,7 @@ El archivo **Consultas.sql** contiene reportes como:
   
 ---
 
-📊 Estado del proyecto
+# 📊 Estado del proyecto
 
 Este proyecto se revisó y reorganizó para su publicación en GitHub con fines académicos y de portafolio personal.
 Los scripts fueron probados en OracleXE y Oracle Live y funcionan de forma independiente.
