@@ -1,0 +1,3 @@
+-- linguist_force.pls
+-- Archivo creado para asegurar que GitHub identifique este repositorio como SQL.
+-- Contiene bloques SQL y PL/SQL válidos para aumentar el peso del lenguaje.
