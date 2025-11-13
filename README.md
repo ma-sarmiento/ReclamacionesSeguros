@@ -5,6 +5,10 @@ Incluye el modelo entidad–relación, el diseño relacional final y los scripts
 
 ---
 
+> Nota: Aunque GitHub clasifica el repositorio como PLSQL por la extensión, el contenido corresponde principalmente a SQL estándar y consultas en Oracle.
+> 
+---
+
 ## 📌 Objetivo del proyecto
 
 Construir y analizar un modelo relacional normalizado que permita gestionar:
